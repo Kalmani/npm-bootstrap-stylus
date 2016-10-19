@@ -1,0 +1,15 @@
+{
+  "name": "npm-bootstrap-stylus",
+  "version": "3.3.6",
+  "description": "CommonJS version of bootstrap and stylus files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kalmani/npm-bootstrap-stylus.git"
+  },
+  "author": "Kolosowski Florent <kolosowski.florent@gmail.com>",
+  "license": "ISC"
+}
