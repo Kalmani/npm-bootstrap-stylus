@@ -1,6 +1,6 @@
 {
   "name": "npm-bootstrap-stylus",
-  "version": "3.3.6",
+  "version": "3.3.7",
   "description": "CommonJS version of bootstrap and stylus files",
   "main": "index.js",
   "scripts": {
